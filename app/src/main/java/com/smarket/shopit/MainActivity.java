@@ -109,8 +109,7 @@ public class MainActivity extends AppCompatActivity implements TextureView.OnCli
                         //checking if success
                         if(task.isSuccessful()){
                             finish();
-                            Toast.makeText(MainActivity.this, "Registered Successfull", Toast.LENGTH_LONG).show();
-
+                            startActivity(new Intent(getApplicationContext(), MainScreen.class));
                         }  else {
 
                             Toast.makeText(MainActivity.this, "Could not register. Please try Again!!", Toast.LENGTH_LONG).show();
