@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "217716503712",
+    "firebase_url": "https://smarket-75dd7.firebaseio.com",
+    "project_id": "smarket-75dd7",
+    "storage_bucket": "smarket-75dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217716503712:android:637343d9d31916eb",
+        "android_client_info": {
+          "package_name": "com.serverapp.org.smarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217716503712-cspglk06sad6ok9u5bqucdp3hn2074v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhaLl26Cj8lWZKjg6RxJE85jawiq5D60"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217716503712:android:6da55b9ea1bb4289",
+        "android_client_info": {
+          "package_name": "com.smarket.shopit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217716503712-cspglk06sad6ok9u5bqucdp3hn2074v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhaLl26Cj8lWZKjg6RxJE85jawiq5D60"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
